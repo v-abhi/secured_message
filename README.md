@@ -1,5 +1,14 @@
 # secured_message
+
+FUNCTIONALITY
 a way to send our message using our own created password.
+
+**
+SPECIAL THANKS TO SUDIPTO MONDAL.
+
+
+Details :-
+
 .
 .
 .
@@ -99,6 +108,9 @@ any many more....
 .
 .
 .
+
+****
+
 
 
 
