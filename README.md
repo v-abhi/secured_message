@@ -1,11 +1,19 @@
 # secured_message
 a way to send our message using our own created password.
+.
+.
+.
+.
 
 
 C is a compiled language. 
 After successful compilation of source code, we get executable file (.exe on windows and .out on linux) . 
 Getting source code from executable file is .. . . . . 
 
+.
+.
+.
+.
 
 
 
@@ -22,7 +30,13 @@ Compile this file, using command
 
 Now a executable file named " message " will be created. 
 
-send this file to receiver.
+send/share this file to receiver via any possible medium.
+.
+.
+.
+.
+.
+.
 
 
 
@@ -36,6 +50,12 @@ run on your system using command
    " ./message required_password "  Here required_password = password set by sender.
    
 now, your message will be shown on terminal. 
+.
+.
+.
+.
+.
+.
 
 
 
@@ -46,6 +66,12 @@ DEMO:-
    "./message password_1 ".
    you will get "your message is here." ( message which i was willing to send ).
    if you have entered wrong password, then you will not get correct passwords...
+   .
+   .
+   .
+   .
+   .
+   .
    
    
    
@@ -62,5 +88,11 @@ resulting, in more secured ( cracking password will be very* tough ).
 
 "corruption of message" , "when wrong password is entered" is also possible.
 any many more....
+.
+.
+.
+.
+.
+
 
 
