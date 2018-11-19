@@ -50,6 +50,12 @@ run on your system using command
    " ./message required_password "  Here required_password = password set by sender.
    
 now, your message will be shown on terminal. 
+
+
+*** IN CASE YOUR MESSAGE IS NOT SHOWN,
+      MAKE THIS FILE EXECUTABE,
+      USING COMMAND "sudo chmod 775 message".
+      then run again.
 .
 .
 .
