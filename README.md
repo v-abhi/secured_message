@@ -81,7 +81,7 @@ DEMO:-
    run on your linux system using command,
    "./message password_1 ".
    you will get "your message is here." ( message which i was willing to send ).
-   if you have entered wrong password, then you will not get correct passwords...
+   if you have entered wrong password, then you will not get correct message...
    .
    .
    .
